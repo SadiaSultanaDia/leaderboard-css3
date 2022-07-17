@@ -91,6 +91,9 @@ hr{
     width: 224px;
     height: 104px;
 }
+.course-author{
+    color: #e64c2a;
+}
 .course-info{
     display: flex;
     align-items: center;
